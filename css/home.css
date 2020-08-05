@@ -1,0 +1,42 @@
+#highlight {
+    background-color: #00ccd2;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+#highlight h3 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#clients .panel/*, #testimonials .panel */{
+    padding: 1em;
+    background-color: #eee;
+    width: 100%;
+    /* height: 200px; */
+    border: 1px solid #ddd;
+}
+/* #testimonials .panel .right {
+    text-align: right;
+} */
+
+#clients img.panel {
+    width: 200px;
+    height: 80px;
+    object-fit: contain;
+}
+
+#contact form label span {
+    color: red
+}
+/* 
+.carousel #back, .carousel #forward {
+    position: absolute;
+    cursor: pointer;
+    top: 180px
+}
+    .carousel #forward{
+        right: 0;
+    } */

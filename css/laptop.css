@@ -1,0 +1,14 @@
+.specials .row > div {
+    text-align: center;
+}
+
+.specials img {
+    width: 40%;
+    padding: 1em;
+    text-align: center;
+}
+.specials label {
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+}
