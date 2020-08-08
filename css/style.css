@@ -59,7 +59,7 @@ padding: 0; }
 .navbar-default .navbar-nav { margin: 0;width: 100%;
     justify-content: space-between;
     display: flex; }
-.navbar-default .navbar-nav > li > a { color: #fff; width:100%; background-color: transparent; text-decoration: none; }
+.navbar-default .navbar-nav > li > a { color: #fff; width:100%; background-color: transparent; text-decoration: none;display: flex; align-items: center; justify-content: center; height:100%; padding: 5px 10px }
 .navbar-default .navbar-nav > li > a:hover { color: #00aab0; background-color: #fff }
 .navbar-default .navbar-nav > li > a:focus { color: #00aab0; background-color: #fff }
 .navbar-default .navbar-nav > li > a:active { color: #00aab0; background-color: #fff }
@@ -501,4 +501,19 @@ footer .pull-right { float: none !important; display: block }
 
 .contact form label span {
     color: red
+}
+
+#clients .panel {
+    padding: 1em;
+    background-color: #eee;
+    width: 100%;
+    /* height: 200px; */
+    border: 1px solid #ddd;
+}
+
+
+#clients img.panel {
+    width: 200px;
+    height: 80px;
+    object-fit: contain;
 }
