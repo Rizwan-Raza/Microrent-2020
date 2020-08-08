@@ -498,3 +498,7 @@ footer .pull-right { float: none !important; display: block }
 .contact-us-info .call-icon {    
     filter: brightness(0) invert(1)
 }
+
+.contact form label span {
+    color: red
+}

@@ -12,6 +12,7 @@
 
   <!-- <link rel="canonical" href="http://inforentcomputers.com/laptop-and-desktops-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">
+
 <body>
 
   <div class="container">
@@ -20,8 +21,10 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-        <?php include "includes/inner-banner.html"; ?>
-
+        
+        <section class="inner-banner"> <img src="img/inner-banner1.png" alt="">
+          <div class="shadaw"></div>
+        </section>
 
       </header>
 
@@ -34,25 +37,32 @@
             <!--content starts-->
 
             <section class="content-container">
-              <h1><span>Laptops on Rent</span></h1>
-              <p>Microrent India a leading rental company delivers any number of Laptops / Notebook in different locations of Delhi / Noida & Gurgaon. We have different rental period i.e. Daily / Weekly &amp; Monthly.<br />
-                Our wide makes of Laptop include HP, Dell, Apple, Lenovo etc at lowest prices with 24x7 service.
-              </p>
-
               <div class="row">
-                <div class="col-sm-12 col-md-6">
-                  <img src="img/laptop.jpg" style="width:100%" />
+                <div class="col-sm-12 col-md-9">
+                  <h1><span>Laptops on Rent</span></h1>
+                  <p>Microrent India a leading rental company delivers any number of Laptops / Notebook in different locations of Delhi / Noida & Gurgaon. We have different rental period i.e. Daily / Weekly &amp; Monthly.<br />
+                    Our wide makes of Laptop include HP, Dell, Apple, Lenovo etc at lowest prices with 24x7 service.
+                  </p>
+
+                  <div class="row">
+                    <div class="col-sm-12 col-md-6">
+                      <img src="img/laptop.jpg" style="width:100%" />
+                    </div>
+                    <div class="col-sm-12 col-md-6">
+                      <h1 class="default">Laptop Features:</h1>
+                      <p><b>Make: </b>Dell / Lenovo / HP / Apple / Acer</p>
+                      <p><b>Model: </b>All existing models.</p>
+                      <p><b>Processor: </b>i3 / i5 / i7 / i9 all Generations</p>
+                      <p><b>RAM: </b>4 GB to 32 GB</p>
+                      <p><b>HDD: </b>250 GB to 1 TB (SATA / SSD / Hybrid)</p>
+                      <p><b>Display: </b>12" to 15"</p>
+                      <p><b>Graphic Card: </b>1 GB to 8 GB as per customer requirements</p>
+                      </p>
+                    </div>
+                  </div>
                 </div>
-                <div class="col-sm-12 col-md-6">
-                  <h1 class="default">Laptop Features</h1>
-                  <br />
-                  <p>Make: <b>Dell / Lenovo / HP / Apple / Acer</b></p>
-                  <p>Model: <b>All existing models.</b></p>
-                  <p>Processor: <b>i3 / i5 / i7 / i9 all Generations</b></p>
-                  <p>RAM: <b>4 GB to 32 GB</b></p>
-                  <p>HDD: <b>250 GB to 1 TB (SATA / SSD / Hybrid)</b></p>
-                  <p>Display: <b>12" to 15"</b></p>
-                  <p>Graphic Card: <b>1 GB to 8 GB as per customer requirements</p></b></p>
+                <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                  <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <?php include "includes/partners.html"; ?>

@@ -157,7 +157,7 @@
               <br />
               <h1><span>Reach Us</span></h1>
               <br />
-              <div class="row" id="contact">
+              <div class="row" class="contact">
                 <div class="col-sm-12 col-md-6 col-lg-8">
                   <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7009.084901985041!2d77.23820332682375!3d28.553469453716616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3cb05555555%3A0xbf833df171db91ea!2sMicrorent%20India!5e0!3m2!1sen!2sin!4v1596368050945!5m2!1sen!2sin" style="border:0" width="100%"></iframe>
                 </div>
