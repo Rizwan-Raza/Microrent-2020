@@ -1,97 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
-<?php include "includes/head.html"; ?>
-<title>Contact Us</title>
+  <?php include "includes/head.html"; ?>
+  <title>Contact Us</title>
 
-<meta name="description"  content="Enquiry inforentcomputer@gmail.com For any queries, call us or fill the below form and we will get back to you." />
+  <meta name="description" content="Enquiry inforentcomputer@gmail.com For any queries, call us or fill the below form and we will get back to you." />
 
-<!-- <link rel="canonical" href="http://inforentcomputers.com/contact-us/" /> -->
+  <!-- <link rel="canonical" href="http://inforentcomputers.com/contact-us/" /> -->
 </head>
+
 <body>
 
-<div class="container"> 
-  <!--center shadow starts-->
-  <section class="center-shadow"> 
-    <!--header starts-->
-    <header>
-    <?php include "includes/nav.html"; ?>
-    
-    <?php include "includes/inner-banner.html"; ?>
+  <div class="container">
+    <!--center shadow starts-->
+    <section class="center-shadow">
+      <!--header starts-->
+      <header>
+        <?php include "includes/nav.html"; ?>
 
 
-</header>
+      </header>
 
-<!--header ends-->
+      <!--header ends-->
 
-<section id="body-container">
-  <div class="row">
-    <div class="col-md-12"> 
-      
-      <!--content starts-->
-      
-      <section class="content-container inner-content">
+      <section id="body-container">
         <div class="row">
-          <div class="col-md-9">
-            <!--h1>
-                          </h1-->
-            <h1>Enquiry</h1>
-<p><a href="mailto:inforentcomputer@gmail.com">inforentcomputer@gmail.com</a></p>
-<p>For any queries, call us or fill the below form and we will get back to you.</p>
-<div role="form" class="wpcf7" id="wpcf7-f68-p39-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"></div>
-<form action="/contact-us/#wpcf7-f68-p39-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="68" />
-<input type="hidden" name="_wpcf7_version" value="4.8" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f68-p39-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="39" />
-<input type="hidden" name="_wpcf7_nonce" value="6214ed270a" />
-</div>
-<form action="get">
-<div class="row">
-<div class="col-md-6">
-                        <label>Name: <em>*</em></label><span class="wpcf7-form-control-wrap text-955"><input type="text" name="text-955" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
-<div class="col-md-6">
-                        <label>Email: <em>*</em></label><span class="wpcf7-form-control-wrap email-400"><input type="email" name="email-400" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" /></span> </div>
-</p></div>
-<div class="row">
-<div class="col-md-6">
-                        <label>Phone: <em>*</em></label><span class="wpcf7-form-control-wrap text-283"><input type="text" name="text-283" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span> </div>
-<div class="col-md-6">
-                        <label>Product you enquiring: <em>*</em></label><span class="wpcf7-form-control-wrap Productyouenquiring"><input type="text" name="Productyouenquiring" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" /></span></div>
-</p></div>
-<div class="row">
-<div class="col-md-12">
-                        <label>Message / Query:</label><span class="wpcf7-form-control-wrap textarea-681"><textarea name="textarea-681" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false"></textarea></span></div>
-</p></div>
-<p>                    <input type="submit" name=""  value="Enquire Now" class="btn"><br />
-                  </form>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
-            			
-                			
-        <?php include "includes/contact.html";?>
-          </div>
-          <div class="col-md-3">
-            <?php include "includes/sidebar.html"; ?>
+          <div class="col-md-12">
+
+            <!--content starts-->
+
+            <section class="content-container">
+              <div class="row">
+                <div class="col-md-9">
+
+                  <h1><span>Contact Us: </span></h1>
+                  <br />
+                  <h3>Head Office: </h3>
+                  <h4>Microrent India <br /> D-5, Kailash Colony, New Delhi</h4>
+                  <br />
+                  <h3>Branch Offices: </h3>
+                  <h4>Noida and Gurgaon</h4>
+                  <br />
+
+                  <div>
+                    <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7009.084901985041!2d77.23820332682375!3d28.553469453716616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3cb05555555%3A0xbf833df171db91ea!2sMicrorent%20India!5e0!3m2!1sen!2sin!4v1596368050945!5m2!1sen!2sin" style="border:0" width="100%"></iframe>
+                  </div>
+
+                </div>
+                <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                  <h1 class="default">Quick Query</h1>
+                  <?php include "includes/query.html"; ?>
+                </div>
+              </div>
+              <?php include "includes/contact.html"; ?>
+            </section>
+
           </div>
         </div>
       </section>
-      
-      <?php include "includes/partners.html"; ?>
-      
-    </div>
+    </section>
+
+    <!--center shadow ends-->
+
+    <?php include "includes/footer.html"; ?>
+
   </div>
-</section>
-</section>
-
-<!--center shadow ends--> 
-
-<?php include "includes/footer.html"; ?>
-	  
-</div>
-<?php include "includes/bottom.html"; ?>
+  <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

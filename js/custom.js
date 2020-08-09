@@ -78,6 +78,47 @@ $(document).ready(function () {
     $(".carousel").carousel("next");
   }, 3000);
 
+  $("#query-form").submit((e) => {
+    e.preventDefault();
+    // console.log($(e.target).serialize());
+
+    $.ajax({
+      url: "php/query.php",
+      method: "POST",
+      data: $(e.target).serialize(),
+      beforeSend: () => {
+        // console.log("Sending");
+        $("#query-form button img").removeClass("hide");
+        $("#query-form button span").text("Sending");
+      },
+      success: (data, status) => {
+        console.log(data, status);
+        var object = JSON.parse(data);
+        $("#query-form .alert").text(object.message).removeClass("hide");
+        // M.toast({
+        //     html: object.message
+        // });
+        if (object.status == "success") {
+          $("#query-form .alert").addClass("alert-success");
+          e.target.reset();
+        } else {
+          $("#query-form .alert").addClass("alert-warning");
+        }
+      },
+      error: (data, status) => {
+        $("#query-form .alert").text(object.message).addClass("alert-error").removeClass("hide");
+        // M.toast({
+        //     html: JSON.parse(data).message
+        // });
+        console.log(data, status);
+      },
+      complete: () => {
+        $("#query-form button img").addClass("hide");
+        $("#query-form button span").text("Send again");
+      }
+    });
+  });
+
 });
 
 

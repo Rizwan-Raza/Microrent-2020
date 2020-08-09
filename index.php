@@ -124,7 +124,7 @@
               <div class="desc">
                 <h1><span>Microrent India</span></h1>
                 <p>Microrent India is one of the largest IT Rental Company. We are in this business from '1989'. Being pioneers in IT Rental &amp; Solution Provider fro Offices, Conferences and Seminars. we offer best services to our clients with 24x7 service for our products.</p>
-                <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related soltions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
+                <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related solutions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
                 <br />
                 <p>
                   We also sell branded Laptops / Desktop / Servers / Networking Products / Printers / UPS / LED Screens / Tablets / Apple Products etc at best price. We also have buy back scheme and leasing option. </p>
@@ -134,49 +134,19 @@
 
               <?php include "includes/partners.html"; ?>
               <br />
-              <h1><span>Few of our clients</span></h1>
-              <br />
-              <div class="row" id="clients">
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/coca-cola.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/pepsi.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/hcl.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/ndtv.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/network18.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/tcs.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/bhel.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/ntpc.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/hyundai.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/samsung.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/niit.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/itc.png" class="panel" /></div>
-                <!-- <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/cmc.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/tata-tech.png" class="panel" /></div> -->
-              </div>
+
+              <?php include "includes/clients.html"; ?>
 
 
               <br />
               <h1><span>Reach Us</span></h1>
               <br />
-              <div class="row" class="contact">
+              <div class="row contact">
                 <div class="col-sm-12 col-md-6 col-lg-8">
                   <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7009.084901985041!2d77.23820332682375!3d28.553469453716616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3cb05555555%3A0xbf833df171db91ea!2sMicrorent%20India!5e0!3m2!1sen!2sin!4v1596368050945!5m2!1sen!2sin" style="border:0" width="100%"></iframe>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4">
-                  <form>
-                    <label>Name <span>*<span></label>
-                    <input type="text" class="form-control" required>
-                    <label>Email <span>*<span></label>
-                    <input type="email" class="form-control" required>
-                    <label>Phone <span>*<span></label>
-                    <input type="tel" class="form-control" required>
-                    <label>What are you looking for? </label>
-                    <input type="text" class="form-control" required>
-                    <label>Message <span>*<span></label>
-                    <textarea class="form-control" required rows="5"></textarea>
-                    <br />
-                    <button type="submit" class="btn" style="float: right;">Send</button>
-                    <br clear="all" />
-                  </form>
+                  <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <?php include "includes/contact.html"; ?>

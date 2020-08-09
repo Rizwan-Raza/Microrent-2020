@@ -1,16 +1,17 @@
-<h1 class="default">Quick Query</h1>
-<form>
+<form id="query-form" method="post">
     <label>Name <span>*<span></label>
-    <input type="text" class="form-control" required>
+    <input type="text" class="form-control" name="name" required>
     <label>Email <span>*<span></label>
-    <input type="email" class="form-control" required>
+    <input type="email" class="form-control" name="email" required>
     <label>Phone <span>*<span></label>
-    <input type="tel" class="form-control" required>
+    <input type="tel" class="form-control" name="phone" required pattern="[0-9]{10}">
     <label>What are you looking for? </label>
-    <input type="text" class="form-control" required>
+    <input type="text" class="form-control" name="what" required>
     <label>Message <span>*<span></label>
-    <textarea class="form-control" required rows="5"></textarea>
+    <textarea class="form-control" required name="msg" rows="5"></textarea>
     <br />
-    <button type="submit" class="btn" style="float: right;">Send</button>
+    <div class="alert hide" role="alert">...</div>
+    <button type="submit" class="btn" style="float: right;"><span>Send</span> <img src="img/ajaxLoader.gif"
+            style="height: 24px; margin: 0px 8px" class="hide" /></button>
     <br clear="all" />
 </form>

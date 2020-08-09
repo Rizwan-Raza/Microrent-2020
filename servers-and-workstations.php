@@ -40,7 +40,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Servers and Workstations on Rent</span></h1>
+                  <h1><span>Servers and Workstations on Rent in Delhi, Noida and Gurgaon</span></h1>
                   <p>Todays technical world is ever advancing and ever changing. Hence for effective business and corporate functioning it is very crucial to keep upgrading and take technical advancements. We at Microrent India cater wuth high end servers and workstations as per our clients requirement. we hire Dell / IBM / HP / Supermicro / Sun Servers apart from customized server with excellent on site service by highly qualified engineers.
                   </p>
 
@@ -71,10 +71,31 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                  <h1 class="default">Quick Query</h1>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
-              <?php include "includes/partners.html"; ?>
+              <div class="partners-section">
+                <h1><span>Our Brand Partners</span></h1>
+                <div id="partnersSliderHome" class="owl-carousel owl-theme">
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo2.png" alt="Rent HP Computers in Delhi">
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo5.png" alt="Rent Acer PC in Delhi"> </div>
+                  </div>
+                </div>
+              </div>
               <br />
               <br />
               <section class="specials">

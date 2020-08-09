@@ -40,7 +40,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Desktop on Rent</span></h1>
+                  <h1><span>Desktop on Rent in Delhi, Noida and Gurgaon</span></h1>
                   <p>Microrent India provides Desktop Computers (branded as well as customized) as per user requirement. Special deals for BPO's / IT companys, seminars, trainings, examinations , events, meetings and other events. We also provide support products like printers / switches / netwoking / scanners on rent. (any quantity with 24x7 service)
                   </p>
 
@@ -61,10 +61,31 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                  <h1 class="default">Quick Query</h1>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
-              <?php include "includes/partners.html"; ?>
+              <div class="partners-section">
+                <h1><span>Our Brand Partners</span></h1>
+                <div id="partnersSliderHome" class="owl-carousel owl-theme">
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo2.png" alt="Rent HP Computers in Delhi">
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo5.png" alt="Rent Acer PC in Delhi"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
+                  </div>
+                </div>
+              </div>
               <br />
               <br />
               <section class="specials">

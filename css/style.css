@@ -37,7 +37,7 @@ a:hover { color: #000; text-decoration: none; }
 .btn:hover, .btn:focus { color: #fff; background: rgb(102,102,102); /* Old browsers * / /* IE9 SVG, needs conditional override of 'filter' to 'none' * / background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM2NjY2NjYiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDAwMDAwIiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+); background: -moz-radial-gradient(center, ellipse cover, rgba(102,102,102,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6+   background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(102,102,102,1)), color-stop(100%, rgba(0,0,0,1))); /* Chrome,Safari4+ * / background: -webkit-radial-gradient(center, ellipse cover, rgba(102,102,102,1) 0%, rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ * / background: -o-radial-gradient(center, ellipse cover, rgba(102,102,102,1) 0%, rgba(0,0,0,1) 100%); /* Opera 12+ * / background: -ms-radial-gradient(center, ellipse cover, rgba(102,102,102,1) 0%, rgba(0,0,0,1) 100%); /* IE10+ * / background: radial-gradient(ellipse at center, rgba(102,102,102,1) 0%, rgba(0,0,0,1) 100%); /* W3C * / filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#000000', GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
 }
 /***************************header starts***************************/
-.brand { float: left; width: auto; padding: 5px 0 15px 0 }
+.brand { float: left; width: auto; padding: 5px 0 }
 .top-links { float: right; width: auto; text-align: right; padding: 10px 0 }
 .top-links ul li { color: #000; display: inline; padding: 0; font-size: 13px; }
 .top-links ul li:before { color: #000; display: inline-block; padding: 0 3px; content: "|"; }
@@ -426,6 +426,12 @@ footer .pull-right { float: none !important; display: block }
 /***************************Responsive ends***************************/
 
 /*************************Overrides ****************/
+@media (min-width:992px) {
+    .top-nav-holder {
+        display: flex; 
+        justify-content: space-between;
+    }
+}
 .carousel {
     overflow: hidden;
     position: relative;
@@ -456,17 +462,18 @@ footer .pull-right { float: none !important; display: block }
     width: 100px;
     height: 36px;
     padding: .5em;
-    background-color: #00ccd2;
-    border-color: #00aab0;
+    background-color: #cefa05;
+    border-color: #acd803;
 }
 
 .brand .carousel .carousel-item strong {
-    color: #fff;
+    color: #000;
 }
 
 .brand .carousel {
     width: 300px;
     height: 50px;
+    margin:auto;
 }
 
 .brand .cap {
@@ -503,7 +510,7 @@ footer .pull-right { float: none !important; display: block }
     color: red
 }
 
-#clients .panel {
+.clients-gall .panel {
     padding: 1em;
     background-color: #eee;
     width: 100%;
@@ -512,8 +519,12 @@ footer .pull-right { float: none !important; display: block }
 }
 
 
-#clients img.panel {
+.clients-gall img.panel {
     width: 200px;
     height: 80px;
     object-fit: contain;
+}
+
+.contact-us-info a[href^="tel"]{
+    font-size: 18px;
 }

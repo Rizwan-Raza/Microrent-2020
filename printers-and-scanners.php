@@ -24,7 +24,7 @@
       <header>
         <?php include "includes/nav.html"; ?>
 
-        <section class="inner-banner"> <img src="img/inner-banner3.png" alt="">
+        <section class="inner-banner"> <img src="img/inner-banner4.jpg" alt="">
           <div class="shadaw"></div>
         </section>
       </header>
@@ -40,7 +40,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Printers and Scanners on Rent</span></h1>
+                  <h1><span>Printers and Scanners on Rent in Delhi, Noida and Gurgaon</span></h1>
                   <p>Microrent India provided printers of make HP, Samsung, Canon, Epson, Xerox including high end commercial Printers &amp; Scanners. Scanners include HP / Epson / Honeywell with on site maintenance.
                   </p>
 
@@ -62,10 +62,28 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                  <h1 class="default">Quick Query</h1>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
-              <?php include "includes/partners.html"; ?>
+              <div class="partners-section">
+                <h1><span>Our Brand Partners</span></h1>
+                <div id="partnersSliderHome" class="owl-carousel owl-theme">
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo2.png" alt="Rent HP Printers in Delhi">
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo11.png" alt="Canon Printers on Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo12.png" alt="Epson Printerson Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo13.png" alt="Honeywell Printers on Rent"> </div>
+                  </div>
+                </div>
+              </div>
               <br />
               <br />
               <section class="specials">
