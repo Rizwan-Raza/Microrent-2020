@@ -503,7 +503,7 @@ footer .pull-right { float: none !important; display: block }
     color: red
 }
 
-#clients .panel {
+.clients-gall .panel {
     padding: 1em;
     background-color: #eee;
     width: 100%;
@@ -512,7 +512,7 @@ footer .pull-right { float: none !important; display: block }
 }
 
 
-#clients img.panel {
+.clients-gall img.panel {
     width: 200px;
     height: 80px;
     object-fit: contain;
