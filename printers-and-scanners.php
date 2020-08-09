@@ -24,7 +24,7 @@
       <header>
         <?php include "includes/nav.html"; ?>
 
-        <section class="inner-banner"> <img src="img/inner-banner3.png" alt="">
+        <section class="inner-banner"> <img src="img/inner-banner4.jpg" alt="">
           <div class="shadaw"></div>
         </section>
       </header>

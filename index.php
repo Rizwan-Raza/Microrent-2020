@@ -124,7 +124,7 @@
               <div class="desc">
                 <h1><span>Microrent India</span></h1>
                 <p>Microrent India is one of the largest IT Rental Company. We are in this business from '1989'. Being pioneers in IT Rental &amp; Solution Provider fro Offices, Conferences and Seminars. we offer best services to our clients with 24x7 service for our products.</p>
-                <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related soltions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
+                <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related solutions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
                 <br />
                 <p>
                   We also sell branded Laptops / Desktop / Servers / Networking Products / Printers / UPS / LED Screens / Tablets / Apple Products etc at best price. We also have buy back scheme and leasing option. </p>
@@ -134,24 +134,8 @@
 
               <?php include "includes/partners.html"; ?>
               <br />
-              <h1><span>Few of our clients</span></h1>
-              <br />
-              <div class="row" id="clients">
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/coca-cola.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/pepsi.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/hcl.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/ndtv.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/network18.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/tcs.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/bhel.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/ntpc.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/hyundai.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/samsung.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/niit.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/itc.png" class="panel" /></div>
-                <!-- <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/cmc.png" class="panel" /></div>
-                <div class="col-sm-4 col-md-3 col-lg-2"><img src="img/tata-tech.png" class="panel" /></div> -->
-              </div>
+              
+              <?php include "includes/clients.html"; ?>
 
 
               <br />
