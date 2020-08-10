@@ -134,7 +134,6 @@
 
               <?php include "includes/partners.html"; ?>
               <br />
-
               <?php include "includes/clients.html"; ?>
 
 
