@@ -462,12 +462,12 @@ footer .pull-right { float: none !important; display: block }
     width: 100px;
     height: 36px;
     padding: .5em;
-    background-color: #cefa05;
-    border-color: #acd803;
+    background-color: #00ccd2;
+    border-color: #00aab0;
 }
 
 .brand .carousel .carousel-item strong {
-    color: #000;
+    color: #fff;
 }
 
 .brand .carousel {
@@ -535,6 +535,7 @@ footer .pull-right { float: none !important; display: block }
     position: fixed;
     bottom: 1em; 
     right: 4em;
+    z-index:100;
     padding: 1em;
     border-radius: 10px;
     
@@ -554,9 +555,10 @@ footer .pull-right { float: none !important; display: block }
 
 .cta {
     position: fixed;
+    z-index:100;
     bottom: 1em;
     left: 1em;
-    background-color: #00ccd2;
+    background-color: #25D366;
     padding: .5em;
     border-radius: 50%;
     box-shadow: 0px 0px 8px #888;

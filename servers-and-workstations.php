@@ -42,7 +42,7 @@
                       <p><b>Form Type: </b>Tower / Rack Type</p>
                       <p><b>Make: </b>Dell / IBM / HP / Sun</p>
                       <p><b>Model: </b>All latest enterprise models.</p>
-                      <p><b>Processor: </b>4 cores to 28 cores</p>
+                      <p><b>Processor: </b>Xeon/Hexa 4 cores to 28 cores</p>
                       <p><b>Socket: </b>Single / Multi sockets</p>
                       <p><b>RAM: </b>8 GB to 6 TB</p>
                       <p><b>HDD: </b>SATA / SAS / SSD - 512 GB to 150 TB</p>
