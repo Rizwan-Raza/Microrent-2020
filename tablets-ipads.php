@@ -18,8 +18,8 @@
     }
 
     .prods .panel img {
-      width: 50%;
-      margin: 2em;
+      width: 100%;
+      padding: 2em;
     }
   </style>
 
@@ -50,25 +50,27 @@
                   <div class="row prods">
                     <div class="col-sm-12 col-md-6">
                       <div class="panel">
-                        <img src="img/laptop" alt="Laptop">
+                        <img src="img/Apple-ipad-32.76.jpg" alt="Apple iPad Pro 2020">
                         <p>Apple iPad Pro 2020, 32.76 cm (12.9 ich) Wi-Fi + Cellular Tablet 256 GB, Space Grey. 12 MP Wide &amp; 10 MP Ultra Wide Primary Camera</p>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
                       <div class="panel">
-                        <img src="img/laptop" alt="Laptop">
+                        <img src="img/Apple-ipad-pro-64-gb-grey.jpg" alt="Apple iPad Pro">
                         <p>Apple iPad Pro (12.9 inch, Wi-Fi 64 GB), Space Grey (3rd Generation)</p>
                       </div>
                     </div>
+                  </div>
+                  <div class="row prods">
                     <div class="col-sm-12 col-md-6">
                       <div class="panel">
-                        <img src="img/laptop" alt="Laptop">
+                        <img src="img/Apple-portable-tablet.jpg" alt="Apple Portable Tablet">
                         <p>Apple Portable Tablet / PC, Wi-Fi Model, A10X Fusion Processor, 4GB RAM, 5x Digital Zoom Camera</p>
                       </div>
                     </div>
                     <div class="col-sm-12 col-md-6">
                       <div class="panel">
-                        <img src="img/laptop" alt="Laptop">
+                        <img src="img/Apple-ipad-pro-2020.jpg" alt="Apple iPad 2020">
                         <p>Apple iPad 2020, 32.76cm (12.9 inch) Wi-Fi + Cellular Tablet 1TB, Space Grey</p>
                       </div>
                     </div>

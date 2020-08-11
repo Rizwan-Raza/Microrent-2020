@@ -528,3 +528,39 @@ footer .pull-right { float: none !important; display: block }
 .contact-us-info a[href^="tel"]{
     font-size: 18px;
 }
+
+.wa-chat {
+    background-color: #25D366;
+    color: #fff;
+    position: fixed;
+    bottom: 1em; 
+    right: 4em;
+    padding: 1em;
+    border-radius: 10px;
+    
+}
+
+.wa-chat a {
+    color: #fff;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.wa-chat a svg {
+    position: relative;
+    top: 5px;
+    margin: -10px 5px 0px 0px;
+}
+
+.cta {
+    position: fixed;
+    bottom: 1em;
+    left: 1em;
+    background-color: #00ccd2;
+    padding: .5em;
+    border-radius: 50%;
+    box-shadow: 0px 0px 8px #888;
+}
+.cta img {
+    filter: brightness(0) invert(1);
+}
