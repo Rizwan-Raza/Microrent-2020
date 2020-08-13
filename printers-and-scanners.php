@@ -51,6 +51,8 @@
                       <p><b>Model: </b>Latest models including all in one.</p>
                       <p><b>Output: </b>Color / Black and White</p>
                       <p><b>Consumables: </b>As per contract.</p>
+                      <br />
+                      <img src="img/desktop.jpg" style="width:100%" />
                     </div>
                     <div class="col-sm-12 col-md-6" style="border-left: 1px solid #ddd;">
                       <h1 class="default">Scanners Features:</h1>
@@ -58,6 +60,8 @@
                       <p><b>Application: </b>Document Scan / Barcode readers.</p>
                       <p><b>Speed: </b>upto 65 pages / minute</p>
                       <p>(Hand held and flatbed scanners available)</p>
+                      <br />
+                      <img src="img/desktop.jpg" style="width:100%" />
                     </div>
                   </div>
                 </div>

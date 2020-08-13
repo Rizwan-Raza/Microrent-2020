@@ -31,7 +31,7 @@
 
         <section class="content-container">
           <h1><span>About Us</span></h1>
-          <p>Microrent India was established in 1989 and is one of the pioneers in computer renting. With 30 year plus experience we have a strong customer base of more than 1500 plus companies in Delhi and NCR. Our quality service products has made us the lasrgest rental company.</p>
+          <p>Microrent India was established in 1989 and is one of the pioneers in computer renting. With 30 year plus experience we have a strong customer base of more than 1500 plus companies in Delhi and NCR. Our quality service products has made us the largest rental company.</p>
 
           <p>We have a team of qualified engineers to give expertised service for our products. Our product range includes Desktop / Laptops / Servers / Workstations / Printers / Projectors / Networking Products / Bar code scanners / iPads / Scanners / Audio Visual equipments for office use, trainings, conference, examinations / BPO service etc.</p>
 

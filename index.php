@@ -127,7 +127,7 @@
                 <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related solutions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
                 <br />
                 <p>
-                  We also sell branded Laptops / Desktop / Servers / Networking Products / Printers / UPS / LED Screens / Tablets / Apple Products etc at best price. We also have buy back scheme and leasing option. </p>
+                  We also rent branded Laptops / Desktop / Servers / Workstations / Storage / Networking Products / Printers / UPS / LED Screens / Tablets / Apple Products etc at best price. We also have buy back scheme and leasing option. </p>
 
                 <p>We have our head office in Kailash Colony Delhi and branch office in Gurgaon and Noida.</p>
               </div>

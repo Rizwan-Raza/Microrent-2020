@@ -34,7 +34,7 @@
               <div class="row">
                 <div class="col-sm-12 col-md-9">
                   <h1><span>Servers, Workstations and Storage on Rent in Delhi, Noida and Gurgaon</span></h1>
-                  <p>Todays technical world is ever advancing and ever changing. Hence for effective business and corporate functioning it is very crucial to keep upgrading and take technical advancements. We at Microrent India cater wuth high end servers and workstations as per our clients requirement. we hire Dell / IBM / HP / Supermicro / Sun Servers apart from customized server with excellent on site service by highly qualified engineers.
+                  <p>Todays technical world is ever advancing and ever changing. Hence for effective business and corporate functioning it is very crucial to keep upgrading and take technical advancements. We at Microrent India cater with high end servers and workstations as per our clients requirement. we hire Dell / IBM / HP / Supermicro / Sun Servers apart from customized server with excellent on site service by highly qualified engineers.
                   </p>
                   <div class="row">
                     <div class="col-sm-12 col-md-6">
