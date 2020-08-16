@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <?php include "includes/head.html"; ?>
   <title>Servers On Rent Delhi And Noida, NCR, Desktop On Rent</title>
@@ -13,7 +12,6 @@
       text-align: center;
     }
   </style>
-
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -21,7 +19,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-        <section class="inner-banner"> <img src="img/inner-banner3.png" alt="">
+        <section class="inner-banner"> <img src="img/inner-banner3.png" alt="Servers, Workstations and Storage on Rent in Delhi, Gurgaon and Noida">
           <div class="shadaw"></div>
         </section>
       </header>
@@ -49,7 +47,7 @@
                       <p><b>Drive Bays: </b>4 Bays to 24 Bays</p>
                       <p><b>Networking: </b>1 GB x 1 to 10 GB x 4</p>
                     </div>
-                    <div class="col-sm-12 col-md-6" style="border-left: 1px solid #ddd;">
+                    <div class="col-sm-12 col-md-6 l-sep">
                       <h1 class="default">Workstation Features:</h1>
                       <p><b>Form Type: </b>Mini Tower / Normal Tower</p>
                       <p><b>Make: </b>Dell / Lenovo / Acer</p>
@@ -67,10 +65,10 @@
                     <tbody>
                       <tr>
                         <td width="279" height="114">
-                          <div><img src="img/server1.gif" alt="s" width="146" height="178"></div>
+                          <div><img src="img/server1.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="146" height="178"></div>
                         </td>
                         <td width="279">
-                          <div><img src="img/server2.gif" alt="s" width="154" height="161"></div>
+                          <div><img src="img/server2.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="154" height="161"></div>
                         </td>
                       </tr>
                       <tr>
@@ -83,10 +81,10 @@
                       </tr>
                       <tr>
                         <td>
-                          <div><img src="img/server3.gif" alt="s" width="113" height="101"></div>
+                          <div><img src="img/server3.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="113" height="101"></div>
                         </td>
                         <td>
-                          <div><img src="img/server4.gif" alt="s" width="171" height="187"></div>
+                          <div><img src="img/server4.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="171" height="187"></div>
                         </td>
                       </tr>
                       <tr>
@@ -119,10 +117,10 @@
                     <tbody>
                       <tr>
                         <td width="279" height="114">
-                          <div><img src="img/work1.jpg" alt="s" width="124" height="124"></div>
+                          <div><img src="img/work1.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
                         </td>
                         <td width="279">
-                          <div><img src="img/work2.jpg" alt="s" width="124" height="124"></div>
+                          <div><img src="img/work2.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
                         </td>
                       </tr>
                       <tr>
@@ -135,10 +133,10 @@
                       </tr>
                       <tr>
                         <td>
-                          <div><img src="img/work3.jpg" alt="s" width="116" height="116"></div>
+                          <div><img src="img/work3.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
                         </td>
                         <td>
-                          <div><img src="img/work4.jpg" alt="s" width="116" height="116"></div>
+                          <div><img src="img/work4.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
                         </td>
                       </tr>
                       <tr>
@@ -153,18 +151,17 @@
                   </table>
                   <h1><span>Storage on Rent</span></h1>
                   <br />
-
                   <table class="table table-bordered text-center">
                     <tbody>
                       <tr>
                         <td width="188">
-                          <div><img src="img/storage1.jpg" alt="s" width="116" height="116"></div>
+                          <div><img src="img/storage1.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
                         </td>
                         <td width="186">
-                          <div><img src="img/storage2.jpg" alt="s" width="85" height="124"></div>
+                          <div><img src="img/storage2.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="85" height="124"></div>
                         </td>
                         <td width="189">
-                          <div><img src="img/storage3.jpg" alt="work-station" width="108" height="121"></div>
+                          <div><img src="img/storage3.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="108" height="121"></div>
                         </td>
                       </tr>
                       <tr>
@@ -180,15 +177,14 @@
                       </tr>
                     </tbody>
                   </table>
-
                   <table class="table table-bordered text-center">
                     <tbody>
                       <tr>
                         <td width="288">
-                          <div><img src="img/tape drive on hire.jpg" alt="s" width="170" height="111"></div>
+                          <div><img src="img/tape drive on hire.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="170" height="111"></div>
                         </td>
                         <td width="281">
-                          <div><img src="img/external hdd on rent.jpg" alt="s" width="57" height="110"></div>
+                          <div><img src="img/external hdd on rent.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="57" height="110"></div>
                           <div></div>
                         </td>
                       </tr>
@@ -211,9 +207,8 @@
                       </tr>
                     </tbody>
                   </table>
-
                 </div>
-                <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                <div class="col-sm-12 col-md-3 contact l-sep">
                   <h1 class="default">Quick Query</h1>
                   <?php include "includes/query.html"; ?>
                 </div>
@@ -229,7 +224,7 @@
                     </div>
                   </div>
                   <div class="item">
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple"> </div>
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on Rent"> </div>
                   </div>
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
@@ -241,22 +236,7 @@
               </div>
               <br />
               <br />
-              <section class="specials">
-                <div class="row">
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/experience.png" />
-                    <label>30 Years of experience</label>
-                  </div>
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/uptime.png" />
-                    <label>98% Uptime</label>
-                  </div>
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/credibility.png" />
-                    <label>Credibility Serving Leading Brands</label>
-                  </div>
-                </div>
-              </section>
+              <?php include "includes/specials.html"; ?>
               <?php include "includes/contact.html"; ?>
             </section>
           </div>
@@ -268,5 +248,4 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
-
 </html>

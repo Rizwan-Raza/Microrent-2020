@@ -1,13 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
   <?php include "includes/head.html"; ?>
-
   <title>Microrent India</title>
   <meta name="description" content="Inforent offers Tablets on Rent in Delhi, Noida and Gurgaon at competitve prices. Call now to rent a tab." />
-
   <!-- <link rel="canonical" href="http://inforentcomputers.com/tablets-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">
   <style>
@@ -16,13 +12,11 @@
       border-color: #ddd;
       text-align: center;
     }
-
     .prods .panel img {
       width: 100%;
       padding: 2em;
     }
   </style>
-
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -30,23 +24,17 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-
       </header>
-
       <!--header ends-->
-
       <section id="body-container">
         <div class="row">
           <div class="col-md-12">
-
             <!--content starts-->
-
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
                   <h1><span>iPad on Rent in Delhi, Noida and Gurgaon</span></h1>
                   <br />
-
                   <div class="row prods">
                     <div class="col-sm-12 col-md-6">
                       <div class="panel">
@@ -75,8 +63,6 @@
                       </div>
                     </div>
                   </div>
-
-
                   <h1><span>Other models available: </span></h1>
                   <br />
                   <p>✔️ iPad Mini -16 GB, Wi-Fi</p>
@@ -89,7 +75,7 @@
                   <p>✔️ Apple iPad Pro (4th Generation, A12Z, 64 Bit Architecture)</p>
                   <p>✔️ Many more models to meet your requirements.</p>
                 </div>
-                <div class="col-sm-12 col-md-3 contact" style="border-left: 1px solid #ddd;">
+                <div class="col-sm-12 col-md-3 contact l-sep">
                   <h1 class="default">Quick Query</h1>
                   <?php include "includes/query.html"; ?>
                 </div>
@@ -98,7 +84,7 @@
                 <h1><span>Our Brand Partners</span></h1>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple"> </div>
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on rent"> </div>
                   </div>
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
@@ -111,36 +97,16 @@
               </div>
               <br />
               <br />
-              <section class="specials">
-                <div class="row">
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/experience.png" />
-                    <label>30 Years of experience</label>
-                  </div>
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/uptime.png" />
-                    <label>98% Uptime</label>
-                  </div>
-                  <div class="col-sm-12 col-md-4">
-                    <img src="img/credibility.png" />
-                    <label>Credibility Serving Leading Brands</label>
-                  </div>
-                </div>
-              </section>
+              <?php include "includes/specials.html"; ?>
               <?php include "includes/contact.html"; ?>
             </section>
-
           </div>
         </div>
       </section>
     </section>
-
     <!--center shadow ends-->
-
     <?php include "includes/footer.html"; ?>
-
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
-
 </html>

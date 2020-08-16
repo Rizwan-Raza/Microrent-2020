@@ -10,7 +10,12 @@
     text-align: center;
     text-transform: uppercase;
 }
-
+.slides .details.d-small h3 {
+    font-size: 48px;
+}
+.slides .details.d-small h3 small {
+    font-size: 28px;
+}
 /* 
 .carousel #back, .carousel #forward {
     position: absolute;
