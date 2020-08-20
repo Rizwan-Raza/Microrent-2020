@@ -1,0 +1,9 @@
+table tr td i {
+    visibility: hidden
+}
+table tr:hover td i {
+    visibility: visible
+}
+a {
+    color: #2a8788;
+}

@@ -4,7 +4,7 @@
   <?php include "includes/head.html"; ?>
   <title>Contact Us</title>
   <meta name="description" content="Enquiry inforentcomputer@gmail.com For any queries, call us or fill the below form and we will get back to you." />
-  <!-- <link rel="canonical" href="http://inforentcomputers.com/contact-us/" /> -->
+  <!-- <link rel="canonical" href="http://microrentindia.com/contact-us/" /> -->
 </head>
 <body>
   <div class="container">

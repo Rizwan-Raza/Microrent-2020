@@ -4,7 +4,7 @@
   <?php include "includes/head.html"; ?>
   <title>Why Choose Microrent</title>
   <meta name="description" content="At Microrent India, we value our association with the clients and offer them complete service right from the time of sales and installation to after-sales" />
-  <!-- <link rel="canonical" href="http://inforentcomputers.com/why-choose-inforent/" /> -->
+  <!-- <link rel="canonical" href="http://microrentindia.com/why-choose-inforent/" /> -->
 </head>
 <body>
   <div class="container">

@@ -4,7 +4,7 @@
   <?php include "includes/head.html"; ?>
   <title>About Microrent</title>
   <meta name="description" content="Microrent Computers is one of the prominent rental companies in Delhi providing rental solutions. Our products and equipment are sophisticated and of superior." />
-  <!-- <link rel="canonical" href="http://inforentcomputers.com/about-us/" /> -->
+  <!-- <link rel="canonical" href="http://microrentindia.com/about-us/" /> -->
 </head>
 <body>
   <div class="container">

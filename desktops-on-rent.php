@@ -5,7 +5,7 @@
   <title>Desktops On Rent Delhi And Noida, NCR, Desktop On Rent</title>
   <meta name="description" content="Desktop On Rent - Looking for desktop on rent in Delhi &amp; Noida. Inforent Provides high Quality Laptops and Desktops Call: 9717415689" />
   <meta name="keywords" content="laptops on rent in delhi,desktops on rent in delhi,laptop rentals delhi,rent laptop and desktop noida" />
-  <!-- <link rel="canonical" href="http://inforentcomputers.com/laptop-and-desktops-on-rent-in-delhi/" /> -->
+  <!-- <link rel="canonical" href="http://microrentindia.com/laptop-and-desktops-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">
 <body>
   <div class="container">
@@ -14,7 +14,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-        <section class="inner-banner"> <img src="img/inner-banner1.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida">
+        <section class="inner-banner"> <img src="img/inner-banner2.jpg" alt="Desktops on Rent in Delhi, Gurgaon and Noida">
           <div class="shadaw"></div>
         </section>
       </header>
@@ -26,24 +26,22 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Laptops on Rent in Delhi, Noida and Gurgaon</span></h1>
-                  <p>Microrent India a leading rental company delivers any number of Laptops / Notebook in different locations of Delhi / Noida & Gurgaon. We have different rental period i.e. Daily / Weekly &amp; Monthly.<br />
-                    Our wide makes of Laptop include HP, Dell, Apple, Lenovo etc at lowest prices with 24x7 service.
+                  <h1><span>Desktop on Rent in Delhi, Noida and Gurgaon</span></h1>
+                  <p>Microrent India provides Desktop Computers (branded as well as customized) as per user requirement. Special deals for BPO's / IT companys, seminars, trainings, examinations , events, meetings and other events. We also provide support products like printers / switches / netwoking / scanners on rent. (any quantity with 24x7 service)
                   </p>
                   <div class="row">
                     <div class="col-sm-12 col-md-6">
-                      <img src="img/laptop.jpg" class="w-100" alt="Laptops on Rent in Delhi, Gurgaon and Noida" />
+                      <img src="img/desktop.jpg" class="w-100" alt="Desktop for rent" />
                     </div>
                     <div class="col-sm-12 col-md-6">
-                      <h1 class="default">Laptop Features:</h1>
-                      <p><b>Make: </b>Dell / Lenovo / HP / Apple / Acer</p>
-                      <p><b>Model: </b>All existing models.</p>
+                      <h1 class="default">Desktop Features:</h1>
+                      <p><b>Form Type: </b>Mini Tower / Normal / Small and Micro</p>
+                      <p><b>Make: </b>Dell / Acer / Apple / HP / Lenovo / customized</p>
+                      <p><b>Model: </b>All corporate models.</p>
                       <p><b>Processor: </b>i3 / i5 / i7 / i9 all Generations</p>
-                      <p><b>RAM: </b>4 GB to 32 GB</p>
-                      <p><b>HDD: </b>250 GB to 1 TB (SATA / SSD / Hybrid)</p>
-                      <p><b>Display: </b>12" to 15"</p>
-                      <p><b>Graphic Card: </b>1 GB to 8 GB as per customer requirements</p>
-                      </p>
+                      <p><b>RAM: </b>4 GB to 64 GB</p>
+                      <p><b>HDD: </b>SATA / SSD / Hybrid Capacity from 250 GB to 2 TB</p>
+                      <p><b>Display: </b>15" to 32" with HD Resolution / High end Graphics Card as per customer requirements</p>
                     </div>
                   </div>
                 </div>
@@ -59,9 +57,6 @@
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>
                   </div>
                   <div class="item">
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
-                  </div>
-                  <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo2.png" alt="Rent HP Computers in Delhi">
                     </div>
                   </div>
@@ -70,6 +65,9 @@
                   </div>
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on Rent"> </div>
+                  </div>
+                  <div class="item">
+                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo10.png" alt="Lenovo on Rent"> </div>
                   </div>
                 </div>
               </div>
