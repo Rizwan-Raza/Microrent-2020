@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <?php include "includes/head.html"; ?>
-  <title>About Microrent</title>
-  <meta name="description" content="Microrent Computers is one of the prominent rental companies in Delhi providing rental solutions. Our products and equipment are sophisticated and of superior." />
+  <title>About Microrent India</title>
+  <meta name="description" content="Microrent India was established in 1989 and is one of the pioneers in computer renting. With 30 year plus experience we have a strong customer base of more than 1500 plus companies in Delhi and NCR." />
   <!-- <link rel="canonical" href="http://microrentindia.com/about-us/" /> -->
 </head>
 <body>

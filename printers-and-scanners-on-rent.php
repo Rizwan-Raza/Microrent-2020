@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <?php include "includes/head.html"; ?>
-  <title>Servers On Rent Delhi And Noida, NCR, Desktop On Rent</title>
-  <meta name="description" content="Desktop On Rent - Looking for desktop on rent in Delhi &amp; Noida. Inforent Provides high Quality Laptops and Desktops Call: 9717415689" />
+  <title>Printer & Scanner on Rent in Delhi Ncr | Printer Rental Services </title>
+  <meta name="description" content="Microrent India provided printer & scanners on rent in Delhi Ncr. It include HP, Samsung, Canon, Epson including high end commercial Printers & Scanners. " />
   <meta name="keywords" content="laptops on rent in delhi,desktops on rent in delhi,laptop rentals delhi,rent laptop and desktop noida" />
   <!-- <link rel="canonical" href="http://microrentindia.com/laptop-and-desktops-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">

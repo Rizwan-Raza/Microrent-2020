@@ -119,11 +119,11 @@ body {
     }
 
     ::-webkit-scrollbar-thumb:hover {
-        background-color: #610b39
+        background-color: #1a7778
     }
     ::-webkit-scrollbar-thumb:active,
     ::-webkit-scrollbar-thumb:focus {
-        background-color: #47092a
+        background-color: #0a6768
     }
     ::-webkit-scrollbar-track {
         background-color: transparent

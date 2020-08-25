@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <?php include "includes/head.html"; ?>
-  <title>Contact Us</title>
-  <meta name="description" content="Enquiry inforentcomputer@gmail.com For any queries, call us or fill the below form and we will get back to you." />
+  <title>Contact Us | Reach Us at Microrent India</title>
+  <meta name="description" content="Microrent India is one of the largest IT Rental Company. We are in this business from '1989'.We have our head office in Kailash Colony Delhi" />
   <!-- <link rel="canonical" href="http://microrentindia.com/contact-us/" /> -->
 </head>
 <body>

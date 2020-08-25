@@ -1,12 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
   <?php include "includes/head.html"; ?>
-  <title>Computers on Rent in Delhi, PC on Rent, Laptops on Rent in Delhi</title>
-  <meta name="description" content="Computers on Rent in Delhi - Looking for computer on rent in Delhi, Laptops on Rent in Delhi, Noida &amp; Gurgaon? MicroRent provides Computers and Laptops." />
+  <title>Laptops on Rent in Delhi | Computer On Rent | Microrentindia.com</title>
+  <meta name="description" content="Rent a Laptop in Delhi  -  The corporates searching for Laptop On Rent in Delhi & NCR special new Computer On Rent for work from home. We also provides web hosting india from Servers On Rent In Delhi We Are Located In South Of Delhi, nearest metro station . Call Now 9810122495." />
   <meta name="keywords" content="computers on rent in delhi, pc on rent in delhi, computer on rent in noida, computer rent in delhi" />
   <!-- <link rel="canonical" href="http://microrentindia.com/" /> -->
   <link href="css/home.css" rel="stylesheet">
+
+    <script type="application/ld+json">
+    {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Microrent India",
+            "image": "http://microrentindia.com/img/logo.png",
+            "@id": "",
+            "url": "http://microrentindia.com/",
+            "telephone": "9810122495",
+            "priceRange": "1000",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "D-5, Basement, Kailash Colony",
+              "addressLocality": "New Delhi",
+              "postalCode": "110048",
+              "addressCountry": "IN"
+          },
+          "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 28.5534601,
+              "longitude": 77.24258069999999
+          },
+          "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "23:59"
+          },
+          "sameAs": "https://www.facebook.com/Microrent-India-61420336538776"
+        }
+  </script>
+  
 </head>
 <body>
   <div class="container">
@@ -15,68 +56,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-        <!--home banner starts-->
-        <section class="home-banner">
-          <div class="home-slider">
-            <ul class="slides">
-              <li> <img src="img/banner1.jpg" width="948" height="376" alt="Desktops on Rent in Delhi, Gurgaon and Noida">
-                <!-- <div class="description">
-                  <div class="skew-block">
-                    <div class="skew-in">
-                      <h3><strong>Plasma Screens,</strong> Projectors <strong>on</strong> Rent</h3>
-                    </div>
-                  </div>
-                </div> -->
-                <div class="details">
-                  <h3>Desktops</h3>
-                  <p><a href="#" class="btn">on rent</a></p>
-                </div>
-                <div class="shadaw"></div>
-              </li>
-              <li> <img src="img/banner2.jpg" width="948" height="376" alt="Laptops on Rent in Delhi, Gurgaon and Noida">
-                <!-- <div class="description">
-                  <div class="skew-block">
-                    <div class="skew-in">
-                      <h3><strong>Computer Laptop, </strong> Desktop <strong>on</strong> Rent</h3>
-                    </div>
-                  </div>
-                </div> -->
-                <div class="details">
-                  <h3>Laptops</h3>
-                  <p><a href="#" class="btn">on rent</a></p>
-                </div>
-                <div class="shadaw"></div>
-              </li>
-              <li><img src="img/banner3.jpg" alt="Servers and Workstations on Rent in Delhi, Gurgaon and Noida">
-                <div class="details d-small">
-                  <h3>Servers and<br /> Workstations<br>
-                    <small>(with High End Graphics Card)</small></h3>
-                  <p><a href="#" class="btn">on rent</a></p>
-                </div>
-                <div class="shadaw"></div>
-              </li>
-              <li> <img src="img/banner4.jpg" width="948" height="376" alt="Computers on Rent in Delhi, Gurgaon and Noida"></li>
-              <li> <img src="img/banner5.jpg" width="948" height="376" alt="Computers on Rent in Delhi, Gurgaon and Noida"></li>
-              <li><img src="img/banner6.jpg" alt="MacBooks on Rent in Delhi, Gurgaon and Noida">
-                <div class="details">
-                  <h3>MacBook Air<br>
-                    <small>Thin & Light</small></h3>
-                  <p><a href="#" class="btn">on rent</a></p>
-                </div>
-                <div class="shadaw"></div>
-              </li>
-              <li><img src="img/banner7.png" alt="Plasma and LEDs on Rent in Delhi, Gurgaon and Noida">
-                <div class="details d-small">
-                  <h3>Plasma and LED<br>
-                    <small>Monitors</small></h3>
-                  <p><a href="#" class="btn">on rent</a></p>
-                </div>
-                <div class="shadaw"></div>
-              </li>
-            </ul>
-          </div>
-        </section>
-        <!--home banner ends-->
+        <?php include "includes/banner.inc.php"; ?>
       </header>
       <!--header ends-->
       <section id="body-container">
@@ -85,13 +65,13 @@
             <!--home top section starts-->
             <div class="home-top-section content-container">
               <br />
-              <h1><span>Items on Rent</span></h3>
+              <h1><span>Items on Rent</span></h1>
                 <div class="carousel">
-                  <div class="carousel-item" href="#one!"><img src="img/new-featured-items-photo1.png" alt="Desktops on Rent in Delhi, Gurgaon and Noida"><strong>Desktops</strong></div>
-                  <div class="carousel-item" href="#two!"><img src="img/new-featured-items-photo2.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida"><strong>Laptops</strong></div>
-                  <div class="carousel-item" href="#three!"><img src="img/new-featured-items-photo3.png" alt="MacBooks on Rent in Delhi, Gurgaon and Noida"><strong>Mac Books</strong></div>
-                  <div class="carousel-item" href="#four!"><img src="img/new-featured-items-photo4.png" alt="iPads and Tablets on Rent in Delhi, Gurgaon and Noida"><strong>iPads/Tablets</strong></div>
-                  <div class="carousel-item" href="#five!"><img src="img/new-featured-items-photo5.png" alt="Accessories on Rent in Delhi, Gurgaon and Noida"><strong>Accessories</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo1.png" alt="Desktops on Rent in Delhi, Gurgaon and Noida"><strong>Desktops</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo2.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida"><strong>Laptops</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo3.png" alt="MacBooks on Rent in Delhi, Gurgaon and Noida"><strong>Mac Books</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo4.png" alt="iPads and Tablets on Rent in Delhi, Gurgaon and Noida"><strong>iPads/Tablets</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo5.png" alt="Accessories on Rent in Delhi, Gurgaon and Noida"><strong>Accessories</strong></div>
                 </div>
             </div>
             <!--home top section ends-->

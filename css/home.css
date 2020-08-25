@@ -16,6 +16,10 @@
 .slides .details.d-small h3 small {
     font-size: 28px;
 }
+.slides img {
+    object-fit: cover;
+    max-height: 376px;
+}
 /* 
 .carousel #back, .carousel #forward {
     position: absolute;

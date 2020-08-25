@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <?php include "includes/head.html"; ?>
-  <title>Microrent India</title>
-  <meta name="description" content="Inforent offers Tablets on Rent in Delhi, Noida and Gurgaon at competitve prices. Call now to rent a tab." />
+  <title>Tablet & iPad on Rent in Delhi Ncr | Rental Services in Delhi NCR</title>
+  <meta name="description" content="Microrent India offers Tablet & IPad on rent in delhi. We are one of leading Tablets and Ipads Rental service provider in Delhi, Noida and Gurgaon." />
   <!-- <link rel="canonical" href="http://microrentindia.com/tablets-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">
   <style>

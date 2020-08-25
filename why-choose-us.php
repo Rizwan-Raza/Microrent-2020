@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <?php include "includes/head.html"; ?>
-  <title>Why Choose Microrent</title>
-  <meta name="description" content="At Microrent India, we value our association with the clients and offer them complete service right from the time of sales and installation to after-sales" />
+  <title>Why Choose Microrent | Best IT rental company in Delhi NCR</title>
+  <meta name="description" content="Microrent India is one of the largest IT Rental Company. We are in this business from '1989'. Being pioneers in IT Rental & Solution Provider for Offices, Conferences and Seminars. we offer best services to our clients with 24x7 service for our products." />
   <!-- <link rel="canonical" href="http://microrentindia.com/why-choose-inforent/" /> -->
 </head>
 <body>
