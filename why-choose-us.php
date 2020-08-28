@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <?php include "includes/head.html"; ?>
   <title>Why Choose Microrent | Best IT rental company in Delhi NCR</title>
   <meta name="description" content="Microrent India is one of the largest IT Rental Company. We are in this business from '1989'. Being pioneers in IT Rental & Solution Provider for Offices, Conferences and Seminars. we offer best services to our clients with 24x7 service for our products." />
   <!-- <link rel="canonical" href="http://microrentindia.com/why-choose-inforent/" /> -->
 </head>
+
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -20,7 +22,7 @@
           <div class="col-md-12">
             <!--content starts-->
             <section class="content-container">
-              <h1><span>Why choose Microrent India</span></h1>
+              <h2 class="h1"><span>Why choose Microrent India</span></h2>
               <br />
               <p>✔️ Oldest rental company in Delhi / NCR.</p>
               <p>✔️ 30 years + experience in rental field.</p>
@@ -43,4 +45,5 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

@@ -11,9 +11,9 @@
     text-align: center;
     width: 100%;
 }
-.content-container .col-sm-9 h1.default {
+.content-container .col-sm-9 .h1.default {
     margin-bottom: .5em;
 }
-.content-container h1:first {
+.content-container .h1:first {
     font-size: 48px;
 }

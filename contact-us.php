@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <?php include "includes/head.html"; ?>
   <title>Contact Us | Reach Us at Microrent India</title>
   <meta name="description" content="Microrent India is one of the largest IT Rental Company. We are in this business from '1989'.We have our head office in Kailash Colony Delhi" />
   <!-- <link rel="canonical" href="http://microrentindia.com/contact-us/" /> -->
 </head>
+
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -22,7 +24,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-md-9">
-                  <h1><span>Contact Us: </span></h1>
+                  <h2 class="h1 default">Contact Us: </h2>
                   <br />
                   <h3>Head Office: </h3>
                   <h4>Microrent India <br /> D-5, Kailash Colony, New Delhi</h4>
@@ -35,7 +37,7 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact l-sep">
-                  <h1 class="default">Quick Query</h1>
+                  <h2 class="h1 default">Quick Query</h2>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
@@ -50,4 +52,5 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

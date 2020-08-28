@@ -26,7 +26,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Desktop on Rent in Delhi, Noida and Gurgaon</span></h1>
+                  <h2 class="h1"><span>Desktop on Rent in Delhi, Noida and Gurgaon</span></h2>
                   <p>Microrent India provides Desktop Computers (branded as well as customized) as per user requirement. Special deals for BPO's / IT companys, seminars, trainings, examinations , events, meetings and other events. We also provide support products like printers / switches / netwoking / scanners on rent. (any quantity with 24x7 service)
                   </p>
                   <div class="row">
@@ -34,7 +34,7 @@
                       <img src="img/desktop.jpg" class="w-100" alt="Desktop for rent" />
                     </div>
                     <div class="col-sm-12 col-md-6">
-                      <h1 class="default">Desktop Features:</h1>
+                      <h2 class="h1 default">Desktop Features:</h2>
                       <p><b>Form Type: </b>Mini Tower / Normal / Small and Micro</p>
                       <p><b>Make: </b>Dell / Acer / Apple / HP / Lenovo / customized</p>
                       <p><b>Model: </b>All corporate models.</p>
@@ -46,12 +46,12 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact l-sep">
-                  <h1 class="default">Quick Query</h1>
+                  <h2 class="h1 default">Quick Query</h2>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <div class="partners-section">
-                <h1><span>Our Brand Partners</span></h1>
+                <h2 class="h1"><span>Our Brand Partners</span></h2>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>

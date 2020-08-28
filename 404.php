@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <?php include "includes/head.html"; ?>
-    <title>Sitemap - Microrent India</title>
+    <title>404 - Page not found - Microrent India</title>
     <!-- <meta name="description" content="At Microrent India, we value our association with the clients and offer them complete service right from the time of sales and installation to after-sales" /> -->
     <!-- <link rel="canonical" href="http://microrentindia.com/why-choose-inforent/" /> -->
+    <style>
+        h2,
+        h3 {
+            text-align: center;
+            margin: 2rem;
+        }
+        
+        .content-container h2 {
+            font-size: 72px;
+        }
+    </style>
 </head>
+
 <body>
     <div class="container">
         <!--center shadow starts-->
@@ -20,16 +33,10 @@
                     <div class="col-md-12">
                         <!--content starts-->
                         <section class="content-container">
-                            <h2 class="h1"><span>Sitemap</span></h2>
                             <br />
-                            <p><a href="/">Home</a></p>
-                            <p><a href="about.php">About</a></p>
-                            <p><a href="why-choose-us.php">Why choose us</a></p>
-                            <p><a href="contact.php">Contact us</a></p>
-                            <p><a href="laptops.php">Laptops on rent</a></p>
-                            <p><a href="desktops.php">Desktops on rent</a></p>
-                            <p><a href="servers-and-workstations.php">Servers and Workstations on rent</a></p>
-                            <p><a href="printers-and-scanners.php">Printers and scanners on rent</a></p>
+                            <h2>404</h2>
+                            <h3>Page not found</h3>
+                            <br />
                             <?php include "includes/contact.html"; ?>
                         </section>
                     </div>
@@ -41,4 +48,5 @@
     </div>
     <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

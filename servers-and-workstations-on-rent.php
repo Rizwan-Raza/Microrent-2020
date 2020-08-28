@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <?php include "includes/head.html"; ?>
   <title>Servers, Workstations & Storage on Rent in Delhi NCR</title>
@@ -12,6 +13,7 @@
       text-align: center;
     }
   </style>
+
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -31,12 +33,12 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Servers, Workstations and Storage on Rent in Delhi, Noida and Gurgaon</span></h1>
+                  <h2 class="h1"><span>Servers, Workstations and Storage on Rent in Delhi, Noida and Gurgaon</span></h2>
                   <p>Todays technical world is ever advancing and ever changing. Hence for effective business and corporate functioning it is very crucial to keep upgrading and take technical advancements. We at Microrent India cater with high end servers and workstations as per our clients requirement. we hire Dell / IBM / HP / Supermicro / Sun Servers apart from customized server with excellent on site service by highly qualified engineers.
                   </p>
                   <div class="row">
                     <div class="col-sm-12 col-md-6">
-                      <h1 class="default">Servers Features:</h1>
+                      <h2 class="h1 default">Servers Features:</h2>
                       <p><b>Form Type: </b>Tower / Rack Type</p>
                       <p><b>Make: </b>Dell / IBM / HP / Sun</p>
                       <p><b>Model: </b>All latest enterprise models.</p>
@@ -48,7 +50,7 @@
                       <p><b>Networking: </b>1 GB x 1 to 10 GB x 4</p>
                     </div>
                     <div class="col-sm-12 col-md-6 l-sep">
-                      <h1 class="default">Workstation Features:</h1>
+                      <h2 class="h1 default">Workstation Features:</h2>
                       <p><b>Form Type: </b>Mini Tower / Normal Tower</p>
                       <p><b>Make: </b>Dell / Lenovo / Acer</p>
                       <p><b>Model: </b>All corporate models.</p>
@@ -59,7 +61,7 @@
                       <p><b>Graphics: </b>High end with 1 GB to 16 GB Discreet Graphic Card</p>
                     </div>
                   </div>
-                  <h1><span>Microrent Customized / Branded Servers</span></h1>
+                  <h2 class="h1"><span>Microrent Customized / Branded Servers</span></h2>
                   <br />
                   <table class="table table-bordered text-center">
                     <tbody>
@@ -111,7 +113,7 @@
                       </tr>
                     </tbody>
                   </table>
-                  <h1><span>Microrent Customized / Branded Workstation</span></h1>
+                  <h2 class="h1"><span>Microrent Customized / Branded Workstation</span></h2>
                   <br />
                   <table class="table table-bordered text-center">
                     <tbody>
@@ -149,7 +151,7 @@
                       </tr>
                     </tbody>
                   </table>
-                  <h1><span>Storage on Rent</span></h1>
+                  <h2 class="h1"><span>Storage on Rent</span></h2>
                   <br />
                   <table class="table table-bordered text-center">
                     <tbody>
@@ -209,12 +211,12 @@
                   </table>
                 </div>
                 <div class="col-sm-12 col-md-3 contact l-sep">
-                  <h1 class="default">Quick Query</h1>
+                  <h2 class="h1 default">Quick Query</h2>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <div class="partners-section">
-                <h1><span>Our Brand Partners</span></h1>
+                <h2 class="h1"><span>Our Brand Partners</span></h2>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>
@@ -248,4 +250,5 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

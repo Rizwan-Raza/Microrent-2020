@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === "GET" and isset($_GET['what'])) {
             array_push($data, $row);
         }
     } else {
-        $data = array("message" => "Something went wrong!", "status" => "server_error");
+        $data = array("message" => "Something went wrong!", "status" => "server_error", "conn_error" => mysqli_connect_error());
     }
 }
 echo json_encode($data);

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <?php include "includes/head.html"; ?>
   <title>Tablet & iPad on Rent in Delhi Ncr | Rental Services in Delhi NCR</title>
@@ -12,11 +13,13 @@
       border-color: #ddd;
       text-align: center;
     }
+
     .prods .panel img {
       width: 100%;
       padding: 2em;
     }
   </style>
+
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -33,7 +36,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>iPad on Rent in Delhi, Noida and Gurgaon</span></h1>
+                  <h2 class="h1"><span>iPad on Rent in Delhi, Noida and Gurgaon</span></h2>
                   <br />
                   <div class="row prods">
                     <div class="col-sm-12 col-md-6">
@@ -63,7 +66,7 @@
                       </div>
                     </div>
                   </div>
-                  <h1><span>Other models available: </span></h1>
+                  <h2 class="h1"><span>Other models available: </span></h2>
                   <br />
                   <p>✔️ iPad Mini -16 GB, Wi-Fi</p>
                   <p>✔️ Apple iPad Pro, 10.5 inch (64 GB, Wi-Fi, Rose Gold)</p>
@@ -76,12 +79,12 @@
                   <p>✔️ Many more models to meet your requirements.</p>
                 </div>
                 <div class="col-sm-12 col-md-3 contact l-sep">
-                  <h1 class="default">Quick Query</h1>
+                  <h2 class="h1 default">Quick Query</h2>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <div class="partners-section">
-                <h1><span>Our Brand Partners</span></h1>
+                <h2 class="h1"><span>Our Brand Partners</span></h2>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on rent"> </div>
@@ -109,4 +112,5 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

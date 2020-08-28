@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <?php include "includes/head.html"; ?>
   <title>Laptops on Rent in Delhi, Noida & Gurgaon | Microrent India</title>
@@ -7,6 +8,7 @@
   <meta name="keywords" content="laptops on rent in delhi,desktops on rent in delhi,laptop rentals delhi,rent laptop and desktop noida" />
   <!-- <link rel="canonical" href="http://microrentindia.com/laptop-and-desktops-on-rent-in-delhi/" /> -->
   <link href="css/laptop.css" rel="stylesheet">
+
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -26,7 +28,7 @@
             <section class="content-container">
               <div class="row">
                 <div class="col-sm-12 col-md-9">
-                  <h1><span>Laptops on Rent in Delhi, Noida and Gurgaon</span></h1>
+                  <h2 class="h1"><span>Laptops on Rent in Delhi, Noida and Gurgaon</span></h2>
                   <p>Microrent India a leading rental company delivers any number of Laptops / Notebook in different locations of Delhi / Noida & Gurgaon. We have different rental period i.e. Daily / Weekly &amp; Monthly.<br />
                     Our wide makes of Laptop include HP, Dell, Apple, Lenovo etc at lowest prices with 24x7 service.
                   </p>
@@ -35,7 +37,7 @@
                       <img src="img/laptop.jpg" class="w-100" alt="Laptops on Rent in Delhi, Gurgaon and Noida" />
                     </div>
                     <div class="col-sm-12 col-md-6">
-                      <h1 class="default">Laptop Features:</h1>
+                      <h2 class="h1 default">Laptop Features:</h2>
                       <p><b>Make: </b>Dell / Lenovo / HP / Apple / Acer</p>
                       <p><b>Model: </b>All existing models.</p>
                       <p><b>Processor: </b>i3 / i5 / i7 / i9 all Generations</p>
@@ -48,12 +50,12 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-3 contact l-sep">
-                  <h1 class="default">Quick Query</h1>
+                  <h2 class="h1 default">Quick Query</h2>
                   <?php include "includes/query.html"; ?>
                 </div>
               </div>
               <div class="partners-section">
-                <h1><span>Our Brand Partners</span></h1>
+                <h2 class="h1"><span>Our Brand Partners</span></h2>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
                     <div class="box"> <img class="lazyOwl" data-src="img/client-logo1.png" alt="Dell computers on Rent"> </div>
@@ -87,4 +89,5 @@
   </div>
   <?php include "includes/bottom.html"; ?>
 </body>
+
 </html>

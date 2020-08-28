@@ -65,7 +65,7 @@
             <!--home top section starts-->
             <div class="home-top-section content-container">
               <br />
-              <h1><span>Items on Rent</span></h1>
+              <h2 class="h1"><span>Items on Rent</span></h2>
                 <div class="carousel">
                   <div class="carousel-item"><img src="img/new-featured-items-photo1.png" alt="Desktops on Rent in Delhi, Gurgaon and Noida"><strong>Desktops</strong></div>
                   <div class="carousel-item"><img src="img/new-featured-items-photo2.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida"><strong>Laptops</strong></div>
@@ -84,7 +84,7 @@
               <!-- <div class="row">
             <div class="col-md-9"> -->
               <div class="desc">
-                <h1><span>Microrent India</span></h1>
+                <h2 class="h1"><span>Microrent India</span></h2>
                 <p>Microrent India is one of the largest IT Rental Company. We are in this business from '1989'. Being pioneers in IT Rental &amp; Solution Provider for Offices, Conferences and Seminars. we offer best services to our clients with 24x7 service for our products.</p>
                 <p>Microrent India has been in this industry for over 30 years, our services and quality product is the reason of our ever increasing sales chart. In this 30 years we have catered more than 1500 companies and turned ourself as a leading rental company. Apart from quality products we provide all IT related solutions to our customers such as training, conference conducting, examinations, product launching etc. Thus, we can say that we offer one roof solution for all IT related products in any quantity and best price.</p>
                 <br />
@@ -96,7 +96,7 @@
               <br />
               <?php include "includes/clients.html"; ?>
               <br />
-              <h1><span>Reach Us</span></h1>
+              <h2 class="h1"><span>Reach Us</span></h2>
               <br />
               <div class="row contact">
                 <div class="col-sm-12 col-md-6 col-lg-8">

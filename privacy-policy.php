@@ -20,7 +20,7 @@
                     <div class="col-md-12">
                         <!--content starts-->
                         <section class="content-container">
-                            <h1><span>Privacy Policy for Microrent India</span></h1>
+                            <h2 class="h1"><span>Privacy Policy for Microrent India</span></h2>
                             <br />
                             <p>At Microrent India, accessible from http://microrentindia.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Microrent India and how we use it.</p>
                             <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
