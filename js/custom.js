@@ -12,8 +12,6 @@ $(document).ready(function () {
   });
   $('.tooltip-add').tooltip({ selector: "a" });
 });
-
-
 // home Carousel
 $(document).ready(function () {
   $("#FeaturedSliderHome").owlCarousel({
@@ -21,9 +19,7 @@ $(document).ready(function () {
     lazyLoad: true,
     navigation: true
   });
-
 });
-
 // partners Carousel
 $(document).ready(function () {
   $("#partnersSliderHome").owlCarousel({
@@ -37,51 +33,18 @@ $(document).ready(function () {
     itemsTabletSmall: false,
     itemsMobile: [479, 3],
   });
-
 });
-
-
 //categories accordion
 $(document).ready(function () {
-
-  $('#productsAccordion > ul > li:has(ul)').addClass("has-sub");
-
-  $('#productsAccordion > ul > li > a').click(function () {
-    var checkElement = $(this).next();
-
-    $('#productsAccordion li').removeClass('active');
-    $(this).closest('li').addClass('active');
-
-
-    if ((checkElement.is('ul')) && (checkElement.is(':visible'))) {
-      $(this).closest('li').removeClass('active');
-      checkElement.slideUp('normal');
-    }
-
-    if ((checkElement.is('ul')) && (!checkElement.is(':visible'))) {
-      $('#productsAccordion ul ul:visible').slideUp('normal');
-      checkElement.slideDown('normal');
-    }
-
-    if (checkElement.is('ul')) {
-      return false;
-    } else {
-      return true;
-    }
-  });
-
   $('.carousel').carousel({
     padding: 100
   });
-
   setInterval(() => {
     $(".carousel").carousel("next");
   }, 3000);
-
   $("#query-form").submit((e) => {
     e.preventDefault();
     // console.log($(e.target).serialize());
-
     $.ajax({
       url: "php/query.php",
       method: "POST",
@@ -118,7 +81,4 @@ $(document).ready(function () {
       }
     });
   });
-
 });
-
-

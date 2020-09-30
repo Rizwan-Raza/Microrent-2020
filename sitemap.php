@@ -31,16 +31,16 @@
 
                         <section class="content-container">
 
-                            <h1><span>Sitemap</span></h1>
+                        <h2 class="h1"><span>Sitemap</span></h2>
                             <br />
                             <p><a href="/">Home</a></p>
-                            <p><a href="about.php">About</a></p>
-                            <p><a href="why-choose-us.php">Why choose us</a></p>
-                            <p><a href="contact.php">Contact us</a></p>
-                            <p><a href="laptops.php">Laptops on rent</a></p>
-                            <p><a href="desktops.php">Desktops on rent</a></p>
-                            <p><a href="servers-and-workstations.php">Servers and Workstations on rent</a></p>
-                            <p><a href="printers-and-scanners.php">Printers and scanners on rent</a></p>
+                            <p><a href="about-us">About</a></p>
+                            <p><a href="why-choose-us">Why choose us</a></p>
+                            <p><a href="contact-us">Contact us</a></p>
+                            <p><a href="laptops-on-rent">Laptops on rent</a></p>
+                            <p><a href="desktops-on-rent">Desktops on rent</a></p>
+                            <p><a href="servers-and-workstations-on-rent">Servers and Workstations on rent</a></p>
+                            <p><a href="printers-and-scanners-on-rent">Printers and scanners on rent</a></p>
                             <?php include "includes/contact.html"; ?>
                         </section>
 
