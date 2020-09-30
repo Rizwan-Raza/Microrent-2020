@@ -42,7 +42,10 @@ if (
                 </div>
                 <div class="prevent-overlay hide full"></div>
                 <div class="grey lighten-3 p-4">
+<<<<<<< HEAD
                     <p><i>Image should be minimum 1200x473 pixel and highly compressed</i></p>
+=======
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
                     <form enctype="multipart/form-data">
                         <div class="file-field input-field">
                             <div class="btn">

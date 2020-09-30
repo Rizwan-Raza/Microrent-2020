@@ -1,5 +1,9 @@
 .back {
+<<<<<<< HEAD
     background-image: url('https://res.cloudinary.com/wamp-infotech/image/upload/v1601479734/log_back.jpg');
+=======
+    background-image: url('../../img/log_back.jpg');
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

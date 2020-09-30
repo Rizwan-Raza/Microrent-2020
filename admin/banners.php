@@ -35,7 +35,11 @@ if (
                 height: auto;
                 overflow: hidden;
                 padding: 0;
+<<<<<<< HEAD
                 background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479733/ajaxLoader.gif) no-repeat center center;
+=======
+                background: url(img/ajaxLoader.gif) no-repeat center center;
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
                 min-height: 100px;
                 margin-bottom: 1em;
             }
@@ -299,7 +303,11 @@ if (
                                     <?php if ($serial != $max) { ?><div class="floatings odown p-2 circle tooltipped" data-tooltip="Move Down" onclick="changeOrder(<?= $_bid ?>, this, <?= $b_order ?>, 1)"><i class="material-icons white-text">expand_more</i></div><?php } ?>
                                     <!-- <div class="floatings edit p-2 circle blue tooltipped" data-tooltip="Edit" onclick="editBanner(<?= $_bid ?>, '<?= $text ?>', '<?= $subtext ?>''<?= $action_text ?>', '<?= $action_link ?>');"><i class="material-icons white-text">edit</i></div> -->
                                     <div class="order p-2 circle"># <?= $serial ?></div>
+<<<<<<< HEAD
                                     <div class="content"><img loading="lazy" src="<?= $img ?>" width="948" height="376" alt="<?= $alt ?>">
+=======
+                                    <div class="content"><img src="<?= $img ?>" width="948" height="376" alt="<?= $alt ?>">
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
                                         <?php if ($is_static == 0) { ?>
                                             <div class="details <?php if (strlen($text) > 10) {
                                                                     echo "d-small";

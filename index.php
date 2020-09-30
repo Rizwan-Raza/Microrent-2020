@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
 
 <head>
+=======
+  <head>
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
   <?php include "includes/head.html"; ?>
   <title>Laptops on Rent in Delhi | Computer On Rent | Microrentindia.com</title>
   <meta name="description" content="Rent a Laptop in Delhi  -  The corporates searching for Laptop On Rent in Delhi & NCR special new Computer On Rent for work from home. We also provides web hosting india from Servers On Rent In Delhi We Are Located In South Of Delhi, nearest metro station . Call Now 9810122495." />
@@ -9,6 +13,7 @@
   <!-- <link rel="canonical" href="http://microrentindia.com/" /> -->
   <link href="css/home.css" rel="stylesheet">
 
+<<<<<<< HEAD
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -49,8 +54,49 @@
     }
   </script>
 
+=======
+    <script type="application/ld+json">
+    {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "name": "Microrent India",
+            "image": "http://microrentindia.com/img/logo.png",
+            "@id": "",
+            "url": "http://microrentindia.com/",
+            "telephone": "9810122495",
+            "priceRange": "1000",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "D-5, Basement, Kailash Colony",
+              "addressLocality": "New Delhi",
+              "postalCode": "110048",
+              "addressCountry": "IN"
+          },
+          "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": 28.5534601,
+              "longitude": 77.24258069999999
+          },
+          "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "23:59"
+          },
+          "sameAs": "https://www.facebook.com/Microrent-India-61420336538776"
+        }
+  </script>
+  
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
 </head>
-
 <body>
   <div class="container">
     <!--center shadow starts-->
@@ -58,9 +104,13 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
+<<<<<<< HEAD
         <div class="hide" id="waitForIt">
           <?php include "includes/banner.inc.php"; ?>
         </div>
+=======
+        <?php include "includes/banner.inc.php"; ?>
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
       </header>
       <!--header ends-->
       <section id="body-container">
@@ -70,6 +120,7 @@
             <div class="home-top-section content-container">
               <br />
               <h2 class="h1"><span>Items on Rent</span></h2>
+<<<<<<< HEAD
               <div class="carousel">
                 <div class="carousel-item"><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479735/featured/new-featured-items-photo1.png" alt="Desktops on Rent in Delhi, Gurgaon and Noida"><strong>Desktops</strong></div>
                 <div class="carousel-item"><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479735/featured/new-featured-items-photo2.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida"><strong>Laptops</strong></div>
@@ -77,6 +128,15 @@
                 <div class="carousel-item"><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479735/featured/new-featured-items-photo4.png" alt="iPads and Tablets on Rent in Delhi, Gurgaon and Noida"><strong>iPads/Tablets</strong></div>
                 <div class="carousel-item"><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479735/featured/new-featured-items-photo5.png" alt="Accessories on Rent in Delhi, Gurgaon and Noida"><strong>Accessories</strong></div>
               </div>
+=======
+                <div class="carousel">
+                  <div class="carousel-item"><img src="img/new-featured-items-photo1.png" alt="Desktops on Rent in Delhi, Gurgaon and Noida"><strong>Desktops</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo2.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida"><strong>Laptops</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo3.png" alt="MacBooks on Rent in Delhi, Gurgaon and Noida"><strong>Mac Books</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo4.png" alt="iPads and Tablets on Rent in Delhi, Gurgaon and Noida"><strong>iPads/Tablets</strong></div>
+                  <div class="carousel-item"><img src="img/new-featured-items-photo5.png" alt="Accessories on Rent in Delhi, Gurgaon and Noida"><strong>Accessories</strong></div>
+                </div>
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
             </div>
             <!--home top section ends-->
             <section id="highlight">
@@ -104,9 +164,13 @@
               <br />
               <div class="row contact">
                 <div class="col-sm-12 col-md-6 col-lg-8">
+<<<<<<< HEAD
                   <div id="mapPlaceholder">
                     <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479734/map-min.jpg" />
                   </div>
+=======
+                  <iframe allowfullscreen="" frameborder="0" height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7009.084901985041!2d77.23820332682375!3d28.553469453716616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3cb05555555%3A0xbf833df171db91ea!2sMicrorent%20India!5e0!3m2!1sen!2sin!4v1596368050945!5m2!1sen!2sin" width="100%"></iframe>
+>>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-4">
                   <?php include "includes/query.html"; ?>
@@ -131,5 +195,4 @@
     });
   </script>
 </body>
-
 </html>

@@ -24,3 +24,4 @@ ErrorDocument 404 /404.php
   ExpiresByType text/javascript "access plus 86400 seconds"
   ExpiresByType application/x-javascript "access plus 86400 seconds"
 </IfModule>
+ErrorDocument 404 /404.php
