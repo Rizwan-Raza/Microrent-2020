@@ -20,12 +20,8 @@
                     <div class="col-md-12">
                         <!--content starts-->
                         <section class="content-container">
-<<<<<<< HEAD
 
                         <h2 class="h1"><span>Sitemap</span></h2>
-=======
-                            <h2 class="h1"><span>Sitemap</span></h2>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
                             <br />
                             <p><a href="/">Home</a></p>
                             <p><a href="about-us">About</a></p>

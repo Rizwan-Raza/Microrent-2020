@@ -21,11 +21,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
         <section class="inner-banner"> <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479741/inners/inner-banner3.png" alt="Servers, Workstations and Storage on Rent in Delhi, Gurgaon and Noida">
-=======
-        <section class="inner-banner"> <img src="img/inner-banner3.png" alt="Servers, Workstations and Storage on Rent in Delhi, Gurgaon and Noida">
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
           <div class="shadaw"></div>
         </section>
       </header>
@@ -71,17 +67,10 @@
                     <tbody>
                       <tr>
                         <td width="279" height="114">
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/server1.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="146" height="178"></div>
                         </td>
                         <td width="279">
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/server2.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="154" height="161"></div>
-=======
-                          <div><img src="img/server1.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="146" height="178"></div>
-                        </td>
-                        <td width="279">
-                          <div><img src="img/server2.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="154" height="161"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                         </td>
                       </tr>
                       <tr>
@@ -94,17 +83,10 @@
                       </tr>
                       <tr>
                         <td>
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/server3.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="113" height="101"></div>
                         </td>
                         <td>
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/server4.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="171" height="187"></div>
-=======
-                          <div><img src="img/server3.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="113" height="101"></div>
-                        </td>
-                        <td>
-                          <div><img src="img/server4.gif" alt="Servers on Rent in Delhi, Gurgaon and Noida" width="171" height="187"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                         </td>
                       </tr>
                       <tr>
@@ -137,17 +119,10 @@
                     <tbody>
                       <tr>
                         <td width="279" height="114">
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/work1.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
                         </td>
                         <td width="279">
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/work2.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
-=======
-                          <div><img src="img/work1.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
-                        </td>
-                        <td width="279">
-                          <div><img src="img/work2.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="124" height="124"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                         </td>
                       </tr>
                       <tr>
@@ -160,17 +135,10 @@
                       </tr>
                       <tr>
                         <td>
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/work3.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
                         </td>
                         <td>
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/work4.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
-=======
-                          <div><img src="img/work3.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
-                        </td>
-                        <td>
-                          <div><img src="img/work4.jpg" alt="Workstations on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                         </td>
                       </tr>
                       <tr>
@@ -189,7 +157,6 @@
                     <tbody>
                       <tr>
                         <td width="188">
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/storage1.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
                         </td>
                         <td width="186">
@@ -197,15 +164,6 @@
                         </td>
                         <td width="189">
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/storage3.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="108" height="121"></div>
-=======
-                          <div><img src="img/storage1.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="116" height="116"></div>
-                        </td>
-                        <td width="186">
-                          <div><img src="img/storage2.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="85" height="124"></div>
-                        </td>
-                        <td width="189">
-                          <div><img src="img/storage3.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="108" height="121"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                         </td>
                       </tr>
                       <tr>
@@ -225,17 +183,10 @@
                     <tbody>
                       <tr>
                         <td width="288">
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/tape drive on hire.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="170" height="111"></div>
                         </td>
                         <td width="281">
                           <div><img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/external hdd on rent.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="57" height="110"></div>
-=======
-                          <div><img src="img/tape drive on hire.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="170" height="111"></div>
-                        </td>
-                        <td width="281">
-                          <div><img src="img/external hdd on rent.jpg" alt="Storage on Rent in Delhi, Gurgaon and Noida" width="57" height="110"></div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                           <div></div>
                         </td>
                       </tr>
@@ -275,11 +226,7 @@
                     </div>
                   </div>
                   <div class="item">
-<<<<<<< HEAD:servers-and-workstations-on-rent.php
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo8.png" alt="Apple on Rent"> </div>
-=======
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on Rent"> </div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:servers-and-workstations.php
                   </div>
                   <div class="item">
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo10.png" alt="Lenovo on Rent"> </div>

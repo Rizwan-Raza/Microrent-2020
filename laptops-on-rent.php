@@ -16,11 +16,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-<<<<<<< HEAD:laptops-on-rent.php
         <section class="inner-banner"> <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479740/inners/inner-banner1.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida">
-=======
-        <section class="inner-banner"> <img src="img/inner-banner1.png" alt="Laptops on Rent in Delhi, Gurgaon and Noida">
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:laptops.php
           <div class="shadaw"></div>
         </section>
       </header>
@@ -38,11 +34,7 @@
                   </p>
                   <div class="row">
                     <div class="col-sm-12 col-md-6">
-<<<<<<< HEAD:laptops-on-rent.php
                       <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479733/laptop.jpg" class="w-100" alt="Laptops on Rent in Delhi, Gurgaon and Noida" />
-=======
-                      <img src="img/laptop.jpg" class="w-100" alt="Laptops on Rent in Delhi, Gurgaon and Noida" />
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:laptops.php
                     </div>
                     <div class="col-sm-12 col-md-6">
                       <h2 class="h1 default">Laptop Features:</h2>
@@ -79,11 +71,7 @@
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479738/clients/client-logo5.png" alt="Rent Acer PC in Delhi"> </div>
                   </div>
                   <div class="item">
-<<<<<<< HEAD:laptops-on-rent.php
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479738/clients/client-logo8.png" alt="Apple on Rent"> </div>
-=======
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on Rent"> </div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:laptops.php
                   </div>
                 </div>
               </div>

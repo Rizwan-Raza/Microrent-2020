@@ -115,27 +115,16 @@ padding: 0; }
 .owl-controls { -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 /* fix */
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item { backface-visibility: hidden; -webkit-backface-visibility: hidden; -moz-backface-visibility: hidden; -ms-backface-visibility: hidden; transform: translate3d(0, 0, 0);-webkit-transform: translate3d(0, 0, 0); -moz-transform: translate3d(0, 0, 0); -ms-transform: translate3d(0, 0, 0); }
-<<<<<<< HEAD
 .owl-item.loading { min-height: 150px; background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/ajaxLoader.gif) no-repeat center center }
 /***************************home carousel ends***************************/
 /***************************common content starts***************************/
 .content-container .h1 { font-size: 24px; line-height: normal; font-weight: 700; color: #2a8788; background:url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/heading-line.gif) repeat-x 0 16px;
-=======
-.owl-item.loading { min-height: 150px; background: url(../img/ajaxLoader.gif) no-repeat center center }
-/***************************home carousel ends***************************/
-/***************************common content starts***************************/
-.content-container .h1 { font-size: 24px; line-height: normal; font-weight: 700; color: #2a8788; background:url(../img/heading-line.gif) repeat-x 0 16px;
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
 margin-top: 15px; }
 .content-container .h1.default {
 background: none;
 }
 .content-container .h1 span { background: #fff; padding-right: 10px; }
-<<<<<<< HEAD
 /*.content-container h2 { font-size: 18px; line-height: normal; font-weight: 700; color: #2a8788; background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/heading-line.gif) repeat-x 0 16px; margin-top: 15px }*/
-=======
-/*.content-container h2 { font-size: 18px; line-height: normal; font-weight: 700; color: #2a8788; background: url(../img/heading-line.gif) repeat-x 0 16px; margin-top: 15px }*/
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
 .content-container h2 { font-size: 18px; line-height: normal; font-weight: 700; margin-top: 15px }
 .content-container h2 span { background: #fff; padding-right: 10px; }
 .content-container h3 { font-size: 16px; line-height: normal; font-weight: 700; color: #000 }
@@ -145,10 +134,6 @@ background: none;
 .content-container h5 { font-size: 14px; line-height: normal; font-weight: 400; color: #000; padding: 10px 0 0 }
 .content-container p { padding: 5px 0 10px; line-height: 22px; text-align: justify }
 .content-container ul { padding: 5px 0; margin: 0; list-style: none }
-<<<<<<< HEAD
-=======
-.content-container ul li { padding: 2px 0 2px 22px; margin: 0; list-style: none; background: url(../img/ok.png) no-repeat 0 6px; }
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
 label { font-weight: 500; padding-top: 10px }
 label em { font-weight: 500; color: #F00 }
 input, textarea { box-shadow: inset 0 3px 3px #f4f4f4!important; border-radius: 0!important; border-color: #e3e3e3!important; margin: 0 }
@@ -183,7 +168,6 @@ input:focus, textarea:focus { box-shadow: inset 0 3px 3px #ddd!important; border
 .contact-us-info p a { color: #fff; text-decoration: none }
 .contact-us-info p a:hover { color: #fff; }
 /***************************partners starts***************************/
-<<<<<<< HEAD
 .partners-section h3 { font-size: 18px; line-height: normal; font-weight: 700; color: #2a8788; background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/heading-line.gif) repeat-x 0 16px; margin-bottom: 15px }
 .partners-section h3 span { background: #fff; padding-right: 10px; }
 .partners-section .box { position: relative; text-align: center; margin: 2px 5px; box-shadow: 0 0 2px #ddd; border: 1px solid #ddd; }
@@ -193,17 +177,6 @@ input:focus, textarea:focus { box-shadow: inset 0 3px 3px #ddd!important; border
 .partners-section .owl-carousel .owl-buttons .owl-prev { background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/bg_direction_nav2.png) no-repeat 0 0; width: 27px; height: 27px; left: -5px; top: 34%; }
 .partners-section .owl-carousel .owl-buttons .owl-next { background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/bg_direction_nav2.png) no-repeat -29px 0; width: 27px; height: 27px; right: -5px; top: 34%; }
 .partners-section .owl-item.loading { min-height: 90px; background: url(https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/ajaxLoader.gif) no-repeat center center }
-=======
-.partners-section h3 { font-size: 18px; line-height: normal; font-weight: 700; color: #2a8788; background: url(../img/heading-line.gif) repeat-x 0 16px; margin-bottom: 15px }
-.partners-section h3 span { background: #fff; padding-right: 10px; }
-.partners-section .box { position: relative; text-align: center; margin: 2px 5px; box-shadow: 0 0 2px #ddd; border: 1px solid #ddd; }
-.partners-section .box img { max-width: 100%; width: 100%; height: auto }
-.partners-section strong { position: absolute; left: 0; padding: 5px 15px; margin: 0; bottom: 5%; width: 100%; background: url(../img/white-trans-bg.png); font-weight: 600; text-transform: uppercase; font-size: 18px; color: #000; text-align: left; }
-.partners-section a:hover strong { color: #fff; background-color: #2a8788; background-image: none }
-.partners-section .owl-carousel .owl-buttons .owl-prev { background: url(../img/bg_direction_nav2.png) no-repeat 0 0; width: 27px; height: 27px; left: -5px; top: 34%; }
-.partners-section .owl-carousel .owl-buttons .owl-next { background: url(../img/bg_direction_nav2.png) no-repeat -29px 0; width: 27px; height: 27px; right: -5px; top: 34%; }
-.partners-section .owl-item.loading { min-height: 90px; background: url(../img/ajaxLoader.gif) no-repeat center center }
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76
 /***************************partners ends***************************/
 /***************************footer starts***************************/
 footer { padding: 0; margin: 0; }

@@ -87,11 +87,7 @@
                 <h2 class="h1"><span>Our Brand Partners</span></h2>
                 <div id="partnersSliderHome" class="owl-carousel owl-theme">
                   <div class="item">
-<<<<<<< HEAD:tablets-and-ipads-on-rent.php
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo8.png" alt="Apple on rent"> </div>
-=======
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo8.png" alt="Apple on rent"> </div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:tablets-ipads.php
                   </div>
                   <div class="item">
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo10.png" alt="Lenovo on Rent"> </div>

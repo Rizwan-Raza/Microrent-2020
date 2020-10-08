@@ -16,11 +16,7 @@
       <!--header starts-->
       <header>
         <?php include "includes/nav.html"; ?>
-<<<<<<< HEAD:printers-and-scanners-on-rent.php
         <section class="inner-banner"> <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479740/inners/inner-banner4.jpg" alt="Printers and Scanners on Rent in Delhi, Gurgaon and Noida">
-=======
-        <section class="inner-banner"> <img src="img/inner-banner4.jpg" alt="Printers and Scanners on Rent in Delhi, Gurgaon and Noida">
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:printers-and-scanners.php
           <div class="shadaw"></div>
         </section>
       </header>
@@ -43,11 +39,7 @@
                       <p><b>Output: </b>Color / Black and White</p>
                       <p><b>Consumables: </b>As per contract.</p>
                       <br />
-<<<<<<< HEAD:printers-and-scanners-on-rent.php
                       <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/Printer.png" class="w-100" alt="Printers on Rent in Delhi, Gurgaon and Noida" />
-=======
-                      <img src="img/Printer.png" class="w-100" alt="Printers on Rent in Delhi, Gurgaon and Noida" />
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:printers-and-scanners.php
                     </div>
                     <div class="col-sm-12 col-md-6 l-sep">
                       <h2 class="h1 default">Scanners Features:</h2>
@@ -56,11 +48,7 @@
                       <p><b>Speed: </b>upto 65 pages / minute</p>
                       <p>(Hand held and flatbed scanners available)</p>
                       <br />
-<<<<<<< HEAD:printers-and-scanners-on-rent.php
                       <img loading="lazy" src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/Scanner.png" class="w-100" alt="Scanners on Rent in Delhi, Gurgaon and Noida" />
-=======
-                      <img src="img/Scanner.png" class="w-100" alt="Scanners on Rent in Delhi, Gurgaon and Noida" />
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:printers-and-scanners.php
                     </div>
                   </div>
                 </div>
@@ -80,11 +68,7 @@
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo11.png" alt="Canon Printers on Rent"> </div>
                   </div>
                   <div class="item">
-<<<<<<< HEAD:printers-and-scanners-on-rent.php
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo12.png" alt="Epson Printerson on Rent"> </div>
-=======
-                    <div class="box"> <img class="lazyOwl" data-src="img/client-logo12.png" alt="Epson Printerson on Rent"> </div>
->>>>>>> 8ef17d1897278fcce84c0de24b0e93728ce31a76:printers-and-scanners.php
                   </div>
                   <div class="item">
                     <div class="box"> <img loading="lazy" class="lazyOwl" data-src="https://res.cloudinary.com/wamp-infotech/image/upload/v1601479736/clients/client-logo13.png" alt="Honeywell Printers on Rent"> </div>
